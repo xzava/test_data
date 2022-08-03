@@ -38,9 +38,6 @@ $ python gen.py '1,string'
 - Default rows is `50`
 - Default output_path is `CWD`
 
-Note: Spec suggested rows should be the first column, since it has a default and columns is required,
-it makes sense to place `columns` first.
-
 Note: Python 3.9.13 was used, should work on anything 3.6 and up.
 
 
