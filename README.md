@@ -20,6 +20,8 @@ source venv/bin/activate
 $ python gen.py '1,string' '2,integer' '3,string' --rows 100 --output_path "test_path"
 ```
 
+<img src="http://i.imgur.com/Z1ETm4X.png">
+
 `rows` and `output_path` are optional.
 
 ```bash
